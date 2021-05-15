@@ -3,7 +3,7 @@ Hope You Enjoyed My Resume!
 
 This custom resume was built with HTML, [Tailwind CSS](https://tailwindcss.com/), and the [Universal Résumé Template](https://github.com/WebPraktikos/universal-resume)
 
-Check Out My Finish Resume
+Check Out My Finished Resume
 --------
 Hosted with Netlify & Mobile Responsive [Torey Littlefield - Resume](https://resume-torey-littlefield.netlify.app/)
 
