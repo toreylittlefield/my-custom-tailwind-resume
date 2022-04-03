@@ -11,7 +11,7 @@
     "url": "https://github.com/WebPraktikos/universal-resume/issues"
   },
   "license": "NonCommercial-ShareAlike 1.0 Generic",
-  "author": "WebPraktikos <hi@webpraktikos.com>",
+  "author": "Torey Littlefield <toreylittlefield@gmail.com>",
   "scripts": {
     "serve": "concurrently \"postcss ./tailwind.css -o docs/build.css --watch\"  \"live-server ./docs \"",
     "build": "cross-env NODE_ENV=build postcss ./tailwind.css -o ./docs/build.css"
