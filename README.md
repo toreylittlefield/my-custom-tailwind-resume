@@ -5,7 +5,7 @@ This custom resume was built with HTML, [Tailwind CSS](https://tailwindcss.com/)
 
 Check Out My Finished Resume
 --------
-Hosted with Netlify & Mobile Responsive [Torey Littlefield - Resume](https://resume-torey-littlefield.netlify.app/)
+Hosted with Netlify & Mobile Responsive [Gregory Monroe II - Resume](https://gocodemode.netlify.app/)
 
 How to run it
 ---------
@@ -39,7 +39,7 @@ Starting Point
 
 `docs/index.html` is the main content file. By copying HTML: add pages, sections, subsection, and other parts.
 
-`npm run build` will make the **docs** directory ready for drag-n-drop to, for example, https://app.netlify.com/drop (free registration required beforehand).
+`npm run build` will make the **docs** as the public directory ready for drag-n-drop to, for example, https://app.netlify.com/drop (free registration required beforehand).
 
 Also, with additionally running `git add docs/styles.css -f` and committing changes, it’s ready for push to GitHub and integration with GitHub Pages. GitHub Pages are free for  public repositories. Under your repository name, not profile, click “Settings” and enable GitHub Pages by navigating to: `Options → GitHub Pages → Source → /docs`.
 
